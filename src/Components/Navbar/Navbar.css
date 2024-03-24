@@ -1,0 +1,27 @@
+.navbar {
+  position: relative;
+  background-color: #fff;
+  color: #252525;
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  font-size: 14px;
+}
+
+.btn-blue {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.list {
+  position: relative;
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 2rem;
+  float: right;
+}
